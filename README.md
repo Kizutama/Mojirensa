@@ -1,5 +1,24 @@
-# Vue 3 + Vite
+# Mojirensa
+賢い者は朝の間に、そうでもない者だとしても十日なら十分に学んで習うことができる~~変態~~変体仮名。
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## ゲーム説明
+このゲームは、変体仮名を記憶するための記憶ゲームです。
+ゲーム開始時、すべてのカードが表示され、プレイヤーは正しいペアを素早く見つけ出す必要があります。
+
+### 【基本ルール】
+
+各ペアは、変体仮名カードとその対応する漢字カードで構成されます。
+プレイヤーはカードを2枚ずつ選び、正しい組み合わせを探します。
+正しいペアを見つけると、カードは消去され、	**符**が加算されます。
+間違った組み合わせの場合、**符**は少し減点され、カードは元に戻ります。
+
+### 【特別ルール】
+
+**ドラ**：変体仮名カードには一定の確率で「ドラ」として進化され、正しくマッチングすれば追加の**1飜**が得られます。失敗時は通常のカードに戻ります。
+
+**カン**：**カード河**内に同じ平仮名に対応するカードが4枚揃うと「カン」が成立し、**1飜**が追加されます。
+【ゲーム終了時】
+
+ゲーム終了時、得点と翻数が表示され、
+最終得点は「**符数×飜数**」で計算されます。
