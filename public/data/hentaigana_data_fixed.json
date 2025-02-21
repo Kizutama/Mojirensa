@@ -1,0 +1,2735 @@
+{
+    "hentaigana_data": [
+        {
+            "kana": "10010010",
+            "hiragana": "あ",
+            "kanji": "安",
+            "unicode": "U+1B002",
+            "glyph": "MJ090001",
+            "note": null,
+            "hentaigana": "𛀂"
+        },
+        {
+            "kana": "10020010",
+            "hiragana": "あ",
+            "kanji": "惡",
+            "unicode": "U+1B005",
+            "glyph": "MJ090002",
+            "note": "「を」の仮名としても使われる",
+            "hentaigana": "𛀅"
+        },
+        {
+            "kana": "10030010",
+            "hiragana": "あ",
+            "kanji": "愛",
+            "unicode": "U+1B003",
+            "glyph": "MJ090003",
+            "note": null,
+            "hentaigana": "𛀃"
+        },
+        {
+            "kana": "10040010",
+            "hiragana": "あ",
+            "kanji": "阿",
+            "unicode": "U+1B004",
+            "glyph": "MJ090004",
+            "note": null,
+            "hentaigana": "𛀄"
+        },
+        {
+            "kana": "20010010",
+            "hiragana": "い",
+            "kanji": "以",
+            "unicode": "U+1B006",
+            "glyph": "MJ090005",
+            "note": null,
+            "hentaigana": "𛀆"
+        },
+        {
+            "kana": "20020010",
+            "hiragana": "い",
+            "kanji": "伊",
+            "unicode": "U+1B007",
+            "glyph": "MJ090006",
+            "note": null,
+            "hentaigana": "𛀇"
+        },
+        {
+            "kana": "20030010",
+            "hiragana": "い",
+            "kanji": "意",
+            "unicode": "U+1B008",
+            "glyph": "MJ090007",
+            "note": null,
+            "hentaigana": "𛀈"
+        },
+        {
+            "kana": "20050010",
+            "hiragana": "い",
+            "kanji": "移",
+            "unicode": "U+1B009",
+            "glyph": "MJ090008",
+            "note": null,
+            "hentaigana": "𛀉"
+        },
+        {
+            "kana": "30020010",
+            "hiragana": "う",
+            "kanji": "宇",
+            "unicode": "U+1B00A",
+            "glyph": "MJ090009",
+            "note": null,
+            "hentaigana": "𛀊"
+        },
+        {
+            "kana": "30020020",
+            "hiragana": "う",
+            "kanji": "宇",
+            "unicode": "U+1B00B",
+            "glyph": "MJ090010",
+            "note": null,
+            "hentaigana": "𛀋"
+        },
+        {
+            "kana": "30030010",
+            "hiragana": "う",
+            "kanji": "憂",
+            "unicode": "U+1B00C",
+            "glyph": "MJ090011",
+            "note": null,
+            "hentaigana": "𛀌"
+        },
+        {
+            "kana": "30040010",
+            "hiragana": "う",
+            "kanji": "有",
+            "unicode": "U+1B00D",
+            "glyph": "MJ090012",
+            "note": null,
+            "hentaigana": "𛀍"
+        },
+        {
+            "kana": "30050010",
+            "hiragana": "う",
+            "kanji": "雲",
+            "unicode": "U+1B00E",
+            "glyph": "MJ090013",
+            "note": null,
+            "hentaigana": "𛀎"
+        },
+        {
+            "kana": "40020010",
+            "hiragana": "え",
+            "kanji": "江",
+            "unicode": "U+1B001",
+            "glyph": "MJ090014",
+            "note": null,
+            "hentaigana": "𛀁"
+        },
+        {
+            "kana": "40030010",
+            "hiragana": "え",
+            "kanji": "盈",
+            "unicode": "U+1B00F",
+            "glyph": "MJ090015",
+            "note": null,
+            "hentaigana": "𛀏"
+        },
+        {
+            "kana": "40040010",
+            "hiragana": "え",
+            "kanji": "縁",
+            "unicode": "U+1B010",
+            "glyph": "MJ090016",
+            "note": null,
+            "hentaigana": "𛀐"
+        },
+        {
+            "kana": "40050010",
+            "hiragana": "え",
+            "kanji": "衣",
+            "unicode": "U+1B011",
+            "glyph": "MJ090017",
+            "note": null,
+            "hentaigana": "𛀑"
+        },
+        {
+            "kana": "40050020",
+            "hiragana": "え",
+            "kanji": "衣",
+            "unicode": "U+1B012",
+            "glyph": "MJ090018",
+            "note": null,
+            "hentaigana": "𛀒"
+        },
+        {
+            "kana": "40060010",
+            "hiragana": "え",
+            "kanji": "要",
+            "unicode": "U+1B013",
+            "glyph": "MJ090019",
+            "note": null,
+            "hentaigana": "𛀓"
+        },
+        {
+            "kana": "50010010",
+            "hiragana": "お",
+            "kanji": "於",
+            "unicode": "U+1B014",
+            "glyph": "MJ090020",
+            "note": null,
+            "hentaigana": "𛀔"
+        },
+        {
+            "kana": "50010020",
+            "hiragana": "お",
+            "kanji": "於",
+            "unicode": "U+1B015",
+            "glyph": "MJ090021",
+            "note": null,
+            "hentaigana": "𛀕"
+        },
+        {
+            "kana": "50020010",
+            "hiragana": "お",
+            "kanji": "隱",
+            "unicode": "U+1B016",
+            "glyph": "MJ090022",
+            "note": null,
+            "hentaigana": "𛀖"
+        },
+        {
+            "kana": "60010010",
+            "hiragana": "か",
+            "kanji": "佳",
+            "unicode": "U+1B017",
+            "glyph": "MJ090023",
+            "note": null,
+            "hentaigana": "𛀗"
+        },
+        {
+            "kana": "60020010",
+            "hiragana": "か",
+            "kanji": "加",
+            "unicode": "U+1B018",
+            "glyph": "MJ090024",
+            "note": null,
+            "hentaigana": "𛀘"
+        },
+        {
+            "kana": "60030010",
+            "hiragana": "か",
+            "kanji": "可",
+            "unicode": "U+1B019",
+            "glyph": "MJ090025",
+            "note": null,
+            "hentaigana": "𛀙"
+        },
+        {
+            "kana": "60030020",
+            "hiragana": "か",
+            "kanji": "可",
+            "unicode": "U+1B01A",
+            "glyph": "MJ090026",
+            "note": null,
+            "hentaigana": "𛀚"
+        },
+        {
+            "kana": "60050010",
+            "hiragana": "か",
+            "kanji": "嘉",
+            "unicode": "U+1B01B",
+            "glyph": "MJ090027",
+            "note": null,
+            "hentaigana": "𛀛"
+        },
+        {
+            "kana": "60060010",
+            "hiragana": "か",
+            "kanji": "家",
+            "unicode": "U+1B022",
+            "glyph": "MJ090028",
+            "note": "「け」の仮名としても使われる",
+            "hentaigana": "𛀢"
+        },
+        {
+            "kana": "60070010",
+            "hiragana": "か",
+            "kanji": "我",
+            "unicode": "U+1B01C",
+            "glyph": "MJ090029",
+            "note": null,
+            "hentaigana": "𛀜"
+        },
+        {
+            "kana": "60090010",
+            "hiragana": "か",
+            "kanji": "歟",
+            "unicode": "U+1B01D",
+            "glyph": "MJ090030",
+            "note": null,
+            "hentaigana": "𛀝"
+        },
+        {
+            "kana": "60100010",
+            "hiragana": "か",
+            "kanji": "賀",
+            "unicode": "U+1B01E",
+            "glyph": "MJ090031",
+            "note": null,
+            "hentaigana": "𛀞"
+        },
+        {
+            "kana": "60110010",
+            "hiragana": "か",
+            "kanji": "閑",
+            "unicode": "U+1B01F",
+            "glyph": "MJ090032",
+            "note": null,
+            "hentaigana": "𛀟"
+        },
+        {
+            "kana": "60120010",
+            "hiragana": "か",
+            "kanji": "香",
+            "unicode": "U+1B020",
+            "glyph": "MJ090033",
+            "note": null,
+            "hentaigana": "𛀠"
+        },
+        {
+            "kana": "60130010",
+            "hiragana": "か",
+            "kanji": "駕",
+            "unicode": "U+1B021",
+            "glyph": "MJ090034",
+            "note": null,
+            "hentaigana": "𛀡"
+        },
+        {
+            "kana": "70020010",
+            "hiragana": "き",
+            "kanji": "喜",
+            "unicode": "U+1B023",
+            "glyph": "MJ090035",
+            "note": null,
+            "hentaigana": "𛀣"
+        },
+        {
+            "kana": "70040010",
+            "hiragana": "き",
+            "kanji": "幾",
+            "unicode": "U+1B024",
+            "glyph": "MJ090036",
+            "note": null,
+            "hentaigana": "𛀤"
+        },
+        {
+            "kana": "70040020",
+            "hiragana": "き",
+            "kanji": "幾",
+            "unicode": "U+1B025",
+            "glyph": "MJ090037",
+            "note": null,
+            "hentaigana": "𛀥"
+        },
+        {
+            "kana": "70050010",
+            "hiragana": "き",
+            "kanji": "支",
+            "unicode": "U+1B026",
+            "glyph": "MJ090038",
+            "note": null,
+            "hentaigana": "𛀦"
+        },
+        {
+            "kana": "70060010",
+            "hiragana": "き",
+            "kanji": "木",
+            "unicode": "U+1B027",
+            "glyph": "MJ090040",
+            "note": null,
+            "hentaigana": "𛀧"
+        },
+        {
+            "kana": "70070010",
+            "hiragana": "き",
+            "kanji": "祈",
+            "unicode": "U+1B028",
+            "glyph": "MJ090041",
+            "note": null,
+            "hentaigana": "𛀨"
+        },
+        {
+            "kana": "70110010",
+            "hiragana": "き",
+            "kanji": "起",
+            "unicode": "U+1B02A",
+            "glyph": "MJ090043",
+            "note": null,
+            "hentaigana": "𛀪"
+        },
+        {
+            "kana": "80010010",
+            "hiragana": "く",
+            "kanji": "久",
+            "unicode": "U+1B02B",
+            "glyph": "MJ090044",
+            "note": null,
+            "hentaigana": "𛀫"
+        },
+        {
+            "kana": "80010020",
+            "hiragana": "く",
+            "kanji": "久",
+            "unicode": "U+1B02C",
+            "glyph": "MJ090045",
+            "note": null,
+            "hentaigana": "𛀬"
+        },
+        {
+            "kana": "80020010",
+            "hiragana": "く",
+            "kanji": "九",
+            "unicode": "U+1B02D",
+            "glyph": "MJ090046",
+            "note": null,
+            "hentaigana": "𛀭"
+        },
+        {
+            "kana": "80030010",
+            "hiragana": "く",
+            "kanji": "供",
+            "unicode": "U+1B02E",
+            "glyph": "MJ090047",
+            "note": null,
+            "hentaigana": "𛀮"
+        },
+        {
+            "kana": "80040010",
+            "hiragana": "く",
+            "kanji": "倶",
+            "unicode": "U+1B02F",
+            "glyph": "MJ090048",
+            "note": null,
+            "hentaigana": "𛀯"
+        },
+        {
+            "kana": "80050010",
+            "hiragana": "く",
+            "kanji": "具",
+            "unicode": "U+1B030",
+            "glyph": "MJ090049",
+            "note": null,
+            "hentaigana": "𛀰"
+        },
+        {
+            "kana": "80060010",
+            "hiragana": "く",
+            "kanji": "求",
+            "unicode": "U+1B031",
+            "glyph": "MJ090050",
+            "note": null,
+            "hentaigana": "𛀱"
+        },
+        {
+            "kana": "90010010",
+            "hiragana": "け",
+            "kanji": "介",
+            "unicode": "U+1B033",
+            "glyph": "MJ090051",
+            "note": null,
+            "hentaigana": "𛀳"
+        },
+        {
+            "kana": "90020010",
+            "hiragana": "け",
+            "kanji": "希",
+            "unicode": "U+1B034",
+            "glyph": "MJ090054",
+            "note": null,
+            "hentaigana": "𛀴"
+        },
+        {
+            "kana": "90030010",
+            "hiragana": "け",
+            "kanji": "氣",
+            "unicode": "U+1B035",
+            "glyph": "MJ090055",
+            "note": null,
+            "hentaigana": "𛀵"
+        },
+        {
+            "kana": "90050010",
+            "hiragana": "け",
+            "kanji": "計",
+            "unicode": "U+1B036",
+            "glyph": "MJ090056",
+            "note": null,
+            "hentaigana": "𛀶"
+        },
+        {
+            "kana": "90060010",
+            "hiragana": "け",
+            "kanji": "遣",
+            "unicode": "U+1B037",
+            "glyph": "MJ090057",
+            "note": null,
+            "hentaigana": "𛀷"
+        },
+        {
+            "kana": "100010010",
+            "hiragana": "こ",
+            "kanji": "古",
+            "unicode": "U+1B038",
+            "glyph": "MJ090058",
+            "note": null,
+            "hentaigana": "𛀸"
+        },
+        {
+            "kana": "100030010",
+            "hiragana": "こ",
+            "kanji": "故",
+            "unicode": "U+1B039",
+            "glyph": "MJ090060",
+            "note": null,
+            "hentaigana": "𛀹"
+        },
+        {
+            "kana": "100040010",
+            "hiragana": "こ",
+            "kanji": "期",
+            "unicode": "U+1B03B",
+            "glyph": "MJ090061",
+            "note": "「き」の仮名としても使われる",
+            "hentaigana": "𛀻"
+        },
+        {
+            "kana": "100070010",
+            "hiragana": "こ",
+            "kanji": "許",
+            "unicode": "U+1B03A",
+            "glyph": "MJ090062",
+            "note": null,
+            "hentaigana": "𛀺"
+        },
+        {
+            "kana": "110010010",
+            "hiragana": "さ",
+            "kanji": "乍",
+            "unicode": "U+1B03C",
+            "glyph": "MJ090063",
+            "note": null,
+            "hentaigana": "𛀼"
+        },
+        {
+            "kana": "110020010",
+            "hiragana": "さ",
+            "kanji": "佐",
+            "unicode": "U+1B03D",
+            "glyph": "MJ090064",
+            "note": null,
+            "hentaigana": "𛀽"
+        },
+        {
+            "kana": "110020020",
+            "hiragana": "さ",
+            "kanji": "佐",
+            "unicode": "U+1B03E",
+            "glyph": "MJ090065",
+            "note": null,
+            "hentaigana": "𛀾"
+        },
+        {
+            "kana": "110030010",
+            "hiragana": "さ",
+            "kanji": "左",
+            "unicode": "U+1B03F",
+            "glyph": "MJ090066",
+            "note": null,
+            "hentaigana": "𛀿"
+        },
+        {
+            "kana": "110040010",
+            "hiragana": "さ",
+            "kanji": "差",
+            "unicode": "U+1B040",
+            "glyph": "MJ090067",
+            "note": null,
+            "hentaigana": "𛁀"
+        },
+        {
+            "kana": "110050010",
+            "hiragana": "さ",
+            "kanji": "散",
+            "unicode": "U+1B041",
+            "glyph": "MJ090068",
+            "note": null,
+            "hentaigana": "𛁁"
+        },
+        {
+            "kana": "110060010",
+            "hiragana": "さ",
+            "kanji": "斜",
+            "unicode": "U+1B042",
+            "glyph": "MJ090069",
+            "note": null,
+            "hentaigana": "𛁂"
+        },
+        {
+            "kana": "110070010",
+            "hiragana": "さ",
+            "kanji": "沙",
+            "unicode": "U+1B043",
+            "glyph": "MJ090070",
+            "note": null,
+            "hentaigana": "𛁃"
+        },
+        {
+            "kana": "120010010",
+            "hiragana": "し",
+            "kanji": "之",
+            "unicode": "U+1B044",
+            "glyph": "MJ090071",
+            "note": null,
+            "hentaigana": "𛁄"
+        },
+        {
+            "kana": "120010020",
+            "hiragana": "し",
+            "kanji": "之",
+            "unicode": "U+1B045",
+            "glyph": "MJ090072",
+            "note": null,
+            "hentaigana": "𛁅"
+        },
+        {
+            "kana": "120020010",
+            "hiragana": "し",
+            "kanji": "事",
+            "unicode": "U+1B046",
+            "glyph": "MJ090073",
+            "note": null,
+            "hentaigana": "𛁆"
+        },
+        {
+            "kana": "120030010",
+            "hiragana": "し",
+            "kanji": "四",
+            "unicode": "U+1B047",
+            "glyph": "MJ090074",
+            "note": null,
+            "hentaigana": "𛁇"
+        },
+        {
+            "kana": "120050010",
+            "hiragana": "し",
+            "kanji": "志",
+            "unicode": "U+1B048",
+            "glyph": "MJ090075",
+            "note": null,
+            "hentaigana": "𛁈"
+        },
+        {
+            "kana": "120070010",
+            "hiragana": "し",
+            "kanji": "新",
+            "unicode": "U+1B049",
+            "glyph": "MJ090076",
+            "note": null,
+            "hentaigana": "𛁉"
+        },
+        {
+            "kana": "130010010",
+            "hiragana": "す",
+            "kanji": "受",
+            "unicode": "U+1B04A",
+            "glyph": "MJ090077",
+            "note": null,
+            "hentaigana": "𛁊"
+        },
+        {
+            "kana": "130020010",
+            "hiragana": "す",
+            "kanji": "壽",
+            "unicode": "U+1B04B",
+            "glyph": "MJ090078",
+            "note": null,
+            "hentaigana": "𛁋"
+        },
+        {
+            "kana": "130040010",
+            "hiragana": "す",
+            "kanji": "數",
+            "unicode": "U+1B04C",
+            "glyph": "MJ090079",
+            "note": null,
+            "hentaigana": "𛁌"
+        },
+        {
+            "kana": "130040020",
+            "hiragana": "す",
+            "kanji": "數",
+            "unicode": "U+1B04D",
+            "glyph": "MJ090080",
+            "note": null,
+            "hentaigana": "𛁍"
+        },
+        {
+            "kana": "130050010",
+            "hiragana": "す",
+            "kanji": "春",
+            "unicode": "U+1B04E",
+            "glyph": "MJ090081",
+            "note": null,
+            "hentaigana": "𛁎"
+        },
+        {
+            "kana": "130050030",
+            "hiragana": "す",
+            "kanji": "春",
+            "unicode": "U+1B04F",
+            "glyph": "MJ090082",
+            "note": null,
+            "hentaigana": "𛁏"
+        },
+        {
+            "kana": "130060010",
+            "hiragana": "す",
+            "kanji": "須",
+            "unicode": "U+1B050",
+            "glyph": "MJ090083",
+            "note": null,
+            "hentaigana": "𛁐"
+        },
+        {
+            "kana": "130060020",
+            "hiragana": "す",
+            "kanji": "須",
+            "unicode": "U+1B051",
+            "glyph": "MJ090084",
+            "note": null,
+            "hentaigana": "𛁑"
+        },
+        {
+            "kana": "140010030",
+            "hiragana": "せ",
+            "kanji": "世",
+            "unicode": "U+1B052",
+            "glyph": "MJ090085",
+            "note": null,
+            "hentaigana": "𛁒"
+        },
+        {
+            "kana": "140010040",
+            "hiragana": "せ",
+            "kanji": "世",
+            "unicode": "U+1B053",
+            "glyph": "MJ090086",
+            "note": null,
+            "hentaigana": "𛁓"
+        },
+        {
+            "kana": "140020010",
+            "hiragana": "せ",
+            "kanji": "勢",
+            "unicode": "U+1B055",
+            "glyph": "MJ090088",
+            "note": null,
+            "hentaigana": "𛁕"
+        },
+        {
+            "kana": "140040010",
+            "hiragana": "せ",
+            "kanji": "聲",
+            "unicode": "U+1B056",
+            "glyph": "MJ090089",
+            "note": null,
+            "hentaigana": "𛁖"
+        },
+        {
+            "kana": "150010010",
+            "hiragana": "そ",
+            "kanji": "所",
+            "unicode": "U+1B057",
+            "glyph": "MJ090090",
+            "note": null,
+            "hentaigana": "𛁗"
+        },
+        {
+            "kana": "150010020",
+            "hiragana": "そ",
+            "kanji": "所",
+            "unicode": "U+1B058",
+            "glyph": "MJ090091",
+            "note": null,
+            "hentaigana": "𛁘"
+        },
+        {
+            "kana": "150020010",
+            "hiragana": "そ",
+            "kanji": "曾",
+            "unicode": "U+1B059",
+            "glyph": "MJ090092",
+            "note": null,
+            "hentaigana": "𛁙"
+        },
+        {
+            "kana": "150020020",
+            "hiragana": "そ",
+            "kanji": "曾",
+            "unicode": "U+1B05A",
+            "glyph": "MJ090093",
+            "note": null,
+            "hentaigana": "𛁚"
+        },
+        {
+            "kana": "150030010",
+            "hiragana": "そ",
+            "kanji": "楚",
+            "unicode": "U+1B05B",
+            "glyph": "MJ090094",
+            "note": null,
+            "hentaigana": "𛁛"
+        },
+        {
+            "kana": "150040010",
+            "hiragana": "そ",
+            "kanji": "蘇",
+            "unicode": "U+1B05C",
+            "glyph": "MJ090095",
+            "note": null,
+            "hentaigana": "𛁜"
+        },
+        {
+            "kana": "150050020",
+            "hiragana": "そ",
+            "kanji": "處",
+            "unicode": "U+1B05D",
+            "glyph": "MJ090096",
+            "note": null,
+            "hentaigana": "𛁝"
+        },
+        {
+            "kana": "160010010",
+            "hiragana": "た",
+            "kanji": "堂",
+            "unicode": "U+1B05E",
+            "glyph": "MJ090097",
+            "note": null,
+            "hentaigana": "𛁞"
+        },
+        {
+            "kana": "160020010",
+            "hiragana": "た",
+            "kanji": "多",
+            "unicode": "U+1B05F",
+            "glyph": "MJ090098",
+            "note": null,
+            "hentaigana": "𛁟"
+        },
+        {
+            "kana": "160020020",
+            "hiragana": "た",
+            "kanji": "多",
+            "unicode": "U+1B060",
+            "glyph": "MJ090099",
+            "note": null,
+            "hentaigana": "𛁠"
+        },
+        {
+            "kana": "160050010",
+            "hiragana": "た",
+            "kanji": "當",
+            "unicode": "U+1B061",
+            "glyph": "MJ090100",
+            "note": null,
+            "hentaigana": "𛁡"
+        },
+        {
+            "kana": "170010010",
+            "hiragana": "ち",
+            "kanji": "千",
+            "unicode": "U+1B062",
+            "glyph": "MJ090101",
+            "note": null,
+            "hentaigana": "𛁢"
+        },
+        {
+            "kana": "170020010",
+            "hiragana": "ち",
+            "kanji": "地",
+            "unicode": "U+1B063",
+            "glyph": "MJ090102",
+            "note": null,
+            "hentaigana": "𛁣"
+        },
+        {
+            "kana": "170030010",
+            "hiragana": "ち",
+            "kanji": "智",
+            "unicode": "U+1B064",
+            "glyph": "MJ090103",
+            "note": null,
+            "hentaigana": "𛁤"
+        },
+        {
+            "kana": "170040010",
+            "hiragana": "ち",
+            "kanji": "知",
+            "unicode": "U+1B066",
+            "glyph": "MJ090105",
+            "note": null,
+            "hentaigana": "𛁦"
+        },
+        {
+            "kana": "170050010",
+            "hiragana": "ち",
+            "kanji": "致",
+            "unicode": "U+1B067",
+            "glyph": "MJ090106",
+            "note": null,
+            "hentaigana": "𛁧"
+        },
+        {
+            "kana": "170060010",
+            "hiragana": "ち",
+            "kanji": "遲",
+            "unicode": "U+1B068",
+            "glyph": "MJ090107",
+            "note": null,
+            "hentaigana": "𛁨"
+        },
+        {
+            "kana": "180010010",
+            "hiragana": "つ",
+            "kanji": "川",
+            "unicode": "U+1B069",
+            "glyph": "MJ090108",
+            "note": null,
+            "hentaigana": "𛁩"
+        },
+        {
+            "kana": "180010020",
+            "hiragana": "つ",
+            "kanji": "川",
+            "unicode": "U+1B06A",
+            "glyph": "MJ090109",
+            "note": null,
+            "hentaigana": "𛁪"
+        },
+        {
+            "kana": "180020010",
+            "hiragana": "つ",
+            "kanji": "徒",
+            "unicode": "U+1B06D",
+            "glyph": "MJ090110",
+            "note": "「と」の仮名としても使われる",
+            "hentaigana": "𛁭"
+        },
+        {
+            "kana": "180030010",
+            "hiragana": "つ",
+            "kanji": "津",
+            "unicode": "U+1B06B",
+            "glyph": "MJ090111",
+            "note": null,
+            "hentaigana": "𛁫"
+        },
+        {
+            "kana": "180040010",
+            "hiragana": "つ",
+            "kanji": "都",
+            "unicode": "U+1B06C",
+            "glyph": "MJ090112",
+            "note": null,
+            "hentaigana": "𛁬"
+        },
+        {
+            "kana": "190010010",
+            "hiragana": "て",
+            "kanji": "亭",
+            "unicode": "U+1B06E",
+            "glyph": "MJ090113",
+            "note": null,
+            "hentaigana": "𛁮"
+        },
+        {
+            "kana": "190020010",
+            "hiragana": "て",
+            "kanji": "低",
+            "unicode": "U+1B06F",
+            "glyph": "MJ090114",
+            "note": null,
+            "hentaigana": "𛁯"
+        },
+        {
+            "kana": "190040010",
+            "hiragana": "て",
+            "kanji": "傳",
+            "unicode": "U+1B070",
+            "glyph": "MJ090115",
+            "note": null,
+            "hentaigana": "𛁰"
+        },
+        {
+            "kana": "190050010",
+            "hiragana": "て",
+            "kanji": "天",
+            "unicode": "U+1B071",
+            "glyph": "MJ090116",
+            "note": null,
+            "hentaigana": "𛁱"
+        },
+        {
+            "kana": "190050020",
+            "hiragana": "て",
+            "kanji": "天",
+            "unicode": "U+1B072",
+            "glyph": "MJ090117",
+            "note": null,
+            "hentaigana": "𛁲"
+        },
+        {
+            "kana": "190050030",
+            "hiragana": "て",
+            "kanji": "天",
+            "unicode": "U+1B073",
+            "glyph": "MJ090118",
+            "note": null,
+            "hentaigana": "𛁳"
+        },
+        {
+            "kana": "190060010",
+            "hiragana": "て",
+            "kanji": "帝",
+            "unicode": "U+1B074",
+            "glyph": "MJ090119",
+            "note": null,
+            "hentaigana": "𛁴"
+        },
+        {
+            "kana": "190070010",
+            "hiragana": "て",
+            "kanji": "弖",
+            "unicode": "U+1B075",
+            "glyph": "MJ090120",
+            "note": null,
+            "hentaigana": "𛁵"
+        },
+        {
+            "kana": "190080010",
+            "hiragana": "て",
+            "kanji": "轉",
+            "unicode": "U+1B076",
+            "glyph": "MJ090122",
+            "note": null,
+            "hentaigana": "𛁶"
+        },
+        {
+            "kana": "200010010",
+            "hiragana": "と",
+            "kanji": "土",
+            "unicode": "U+1B077",
+            "glyph": "MJ090123",
+            "note": null,
+            "hentaigana": "𛁷"
+        },
+        {
+            "kana": "200020010",
+            "hiragana": "と",
+            "kanji": "度",
+            "unicode": "U+1B078",
+            "glyph": "MJ090124",
+            "note": null,
+            "hentaigana": "𛁸"
+        },
+        {
+            "kana": "200040010",
+            "hiragana": "と",
+            "kanji": "東",
+            "unicode": "U+1B079",
+            "glyph": "MJ090126",
+            "note": null,
+            "hentaigana": "𛁹"
+        },
+        {
+            "kana": "200060010",
+            "hiragana": "と",
+            "kanji": "登",
+            "unicode": "U+1B07A",
+            "glyph": "MJ090127",
+            "note": null,
+            "hentaigana": "𛁺"
+        },
+        {
+            "kana": "200060020",
+            "hiragana": "と",
+            "kanji": "登",
+            "unicode": "U+1B07B",
+            "glyph": "MJ090128",
+            "note": null,
+            "hentaigana": "𛁻"
+        },
+        {
+            "kana": "200070010",
+            "hiragana": "と",
+            "kanji": "砥",
+            "unicode": "U+1B07C",
+            "glyph": "MJ090129",
+            "note": null,
+            "hentaigana": "𛁼"
+        },
+        {
+            "kana": "200080010",
+            "hiragana": "と",
+            "kanji": "等",
+            "unicode": "U+1B07D",
+            "glyph": "MJ090130",
+            "note": "「ら」の仮名としても使われる",
+            "hentaigana": "𛁽"
+        },
+        {
+            "kana": "210010010",
+            "hiragana": "な",
+            "kanji": "南",
+            "unicode": "U+1B07E",
+            "glyph": "MJ090131",
+            "note": null,
+            "hentaigana": "𛁾"
+        },
+        {
+            "kana": "210020010",
+            "hiragana": "な",
+            "kanji": "名",
+            "unicode": "U+1B07F",
+            "glyph": "MJ090132",
+            "note": null,
+            "hentaigana": "𛁿"
+        },
+        {
+            "kana": "210030010",
+            "hiragana": "な",
+            "kanji": "奈",
+            "unicode": "U+1B080",
+            "glyph": "MJ090133",
+            "note": null,
+            "hentaigana": "𛂀"
+        },
+        {
+            "kana": "210030020",
+            "hiragana": "な",
+            "kanji": "奈",
+            "unicode": "U+1B081",
+            "glyph": "MJ090134",
+            "note": null,
+            "hentaigana": "𛂁"
+        },
+        {
+            "kana": "210030030",
+            "hiragana": "な",
+            "kanji": "奈",
+            "unicode": "U+1B082",
+            "glyph": "MJ090135",
+            "note": null,
+            "hentaigana": "𛂂"
+        },
+        {
+            "kana": "210040010",
+            "hiragana": "な",
+            "kanji": "菜",
+            "unicode": "U+1B083",
+            "glyph": "MJ090136",
+            "note": null,
+            "hentaigana": "𛂃"
+        },
+        {
+            "kana": "210050010",
+            "hiragana": "な",
+            "kanji": "那",
+            "unicode": "U+1B084",
+            "glyph": "MJ090137",
+            "note": null,
+            "hentaigana": "𛂄"
+        },
+        {
+            "kana": "210050020",
+            "hiragana": "な",
+            "kanji": "那",
+            "unicode": "U+1B085",
+            "glyph": "MJ090138",
+            "note": null,
+            "hentaigana": "𛂅"
+        },
+        {
+            "kana": "210060010",
+            "hiragana": "な",
+            "kanji": "難",
+            "unicode": "U+1B086",
+            "glyph": "MJ090139",
+            "note": null,
+            "hentaigana": "𛂆"
+        },
+        {
+            "kana": "220010010",
+            "hiragana": "に",
+            "kanji": "丹",
+            "unicode": "U+1B087",
+            "glyph": "MJ090140",
+            "note": null,
+            "hentaigana": "𛂇"
+        },
+        {
+            "kana": "220020010",
+            "hiragana": "に",
+            "kanji": "二",
+            "unicode": "U+1B088",
+            "glyph": "MJ090141",
+            "note": null,
+            "hentaigana": "𛂈"
+        },
+        {
+            "kana": "220030010",
+            "hiragana": "に",
+            "kanji": "仁",
+            "unicode": "U+1B089",
+            "glyph": "MJ090142",
+            "note": null,
+            "hentaigana": "𛂉"
+        },
+        {
+            "kana": "220040010",
+            "hiragana": "に",
+            "kanji": "兒",
+            "unicode": "U+1B08A",
+            "glyph": "MJ090143",
+            "note": null,
+            "hentaigana": "𛂊"
+        },
+        {
+            "kana": "220060010",
+            "hiragana": "に",
+            "kanji": "爾",
+            "unicode": "U+1B08B",
+            "glyph": "MJ090144",
+            "note": null,
+            "hentaigana": "𛂋"
+        },
+        {
+            "kana": "220060020",
+            "hiragana": "に",
+            "kanji": "爾",
+            "unicode": "U+1B08C",
+            "glyph": "MJ090145",
+            "note": null,
+            "hentaigana": "𛂌"
+        },
+        {
+            "kana": "220070010",
+            "hiragana": "に",
+            "kanji": "而",
+            "unicode": "U+1B08E",
+            "glyph": "MJ090146",
+            "note": "「て」の仮名としても使われる",
+            "hentaigana": "𛂎"
+        },
+        {
+            "kana": "220080010",
+            "hiragana": "に",
+            "kanji": "耳",
+            "unicode": "U+1B08D",
+            "glyph": "MJ090147",
+            "note": null,
+            "hentaigana": "𛂍"
+        },
+        {
+            "kana": "230010010",
+            "hiragana": "ぬ",
+            "kanji": "努",
+            "unicode": "U+1B08F",
+            "glyph": "MJ090148",
+            "note": null,
+            "hentaigana": "𛂏"
+        },
+        {
+            "kana": "230030010",
+            "hiragana": "ぬ",
+            "kanji": "怒",
+            "unicode": "U+1B091",
+            "glyph": "MJ090150",
+            "note": null,
+            "hentaigana": "𛂑"
+        },
+        {
+            "kana": "240010010",
+            "hiragana": "ね",
+            "kanji": "子",
+            "unicode": "U+1B098",
+            "glyph": "MJ090151",
+            "note": "「こ」の仮名としても使われる",
+            "hentaigana": "𛂘"
+        },
+        {
+            "kana": "240030010",
+            "hiragana": "ね",
+            "kanji": "年",
+            "unicode": "U+1B092",
+            "glyph": "MJ090152",
+            "note": null,
+            "hentaigana": "𛂒"
+        },
+        {
+            "kana": "240030020",
+            "hiragana": "ね",
+            "kanji": "年",
+            "unicode": "U+1B094",
+            "glyph": "MJ090154",
+            "note": null,
+            "hentaigana": "𛂔"
+        },
+        {
+            "kana": "240060010",
+            "hiragana": "ね",
+            "kanji": "熱",
+            "unicode": "U+1B096",
+            "glyph": "MJ090156",
+            "note": null,
+            "hentaigana": "𛂖"
+        },
+        {
+            "kana": "240070010",
+            "hiragana": "ね",
+            "kanji": "禰",
+            "unicode": "U+1B097",
+            "glyph": "MJ090157",
+            "note": null,
+            "hentaigana": "𛂗"
+        },
+        {
+            "kana": "250010010",
+            "hiragana": "の",
+            "kanji": "乃",
+            "unicode": "U+1B099",
+            "glyph": "MJ090158",
+            "note": null,
+            "hentaigana": "𛂙"
+        },
+        {
+            "kana": "250020010",
+            "hiragana": "の",
+            "kanji": "濃",
+            "unicode": "U+1B09A",
+            "glyph": "MJ090159",
+            "note": null,
+            "hentaigana": "𛂚"
+        },
+        {
+            "kana": "250030010",
+            "hiragana": "の",
+            "kanji": "能",
+            "unicode": "U+1B09B",
+            "glyph": "MJ090160",
+            "note": null,
+            "hentaigana": "𛂛"
+        },
+        {
+            "kana": "250030020",
+            "hiragana": "の",
+            "kanji": "能",
+            "unicode": "U+1B09C",
+            "glyph": "MJ090161",
+            "note": null,
+            "hentaigana": "𛂜"
+        },
+        {
+            "kana": "250040010",
+            "hiragana": "の",
+            "kanji": "農",
+            "unicode": "U+1B09D",
+            "glyph": "MJ090162",
+            "note": null,
+            "hentaigana": "𛂝"
+        },
+        {
+            "kana": "260010010",
+            "hiragana": "は",
+            "kanji": "八",
+            "unicode": "U+1B09E",
+            "glyph": "MJ090163",
+            "note": null,
+            "hentaigana": "𛂞"
+        },
+        {
+            "kana": "260020010",
+            "hiragana": "は",
+            "kanji": "半",
+            "unicode": "U+1B09F",
+            "glyph": "MJ090164",
+            "note": null,
+            "hentaigana": "𛂟"
+        },
+        {
+            "kana": "260030010",
+            "hiragana": "は",
+            "kanji": "婆",
+            "unicode": "U+1B0A0",
+            "glyph": "MJ090165",
+            "note": null,
+            "hentaigana": "𛂠"
+        },
+        {
+            "kana": "260040010",
+            "hiragana": "は",
+            "kanji": "波",
+            "unicode": "U+1B0A1",
+            "glyph": "MJ090166",
+            "note": null,
+            "hentaigana": "𛂡"
+        },
+        {
+            "kana": "260050010",
+            "hiragana": "は",
+            "kanji": "盤",
+            "unicode": "U+1B0A2",
+            "glyph": "MJ090167",
+            "note": null,
+            "hentaigana": "𛂢"
+        },
+        {
+            "kana": "260050020",
+            "hiragana": "は",
+            "kanji": "盤",
+            "unicode": "U+1B0A3",
+            "glyph": "MJ090168",
+            "note": null,
+            "hentaigana": "𛂣"
+        },
+        {
+            "kana": "260060010",
+            "hiragana": "は",
+            "kanji": "破",
+            "unicode": "U+1B0A4",
+            "glyph": "MJ090169",
+            "note": null,
+            "hentaigana": "𛂤"
+        },
+        {
+            "kana": "260080010",
+            "hiragana": "は",
+            "kanji": "者",
+            "unicode": "U+1B0A5",
+            "glyph": "MJ090170",
+            "note": null,
+            "hentaigana": "𛂥"
+        },
+        {
+            "kana": "260080020",
+            "hiragana": "は",
+            "kanji": "者",
+            "unicode": "U+1B0A6",
+            "glyph": "MJ090171",
+            "note": null,
+            "hentaigana": "𛂦"
+        },
+        {
+            "kana": "260100010",
+            "hiragana": "は",
+            "kanji": "葉",
+            "unicode": "U+1B0A7",
+            "glyph": "MJ090172",
+            "note": null,
+            "hentaigana": "𛂧"
+        },
+        {
+            "kana": "260110010",
+            "hiragana": "は",
+            "kanji": "頗",
+            "unicode": "U+1B0A8",
+            "glyph": "MJ090173",
+            "note": null,
+            "hentaigana": "𛂨"
+        },
+        {
+            "kana": "270020010",
+            "hiragana": "ひ",
+            "kanji": "悲",
+            "unicode": "U+1B0A9",
+            "glyph": "MJ090174",
+            "note": null,
+            "hentaigana": "𛂩"
+        },
+        {
+            "kana": "270030010",
+            "hiragana": "ひ",
+            "kanji": "日",
+            "unicode": "U+1B0AA",
+            "glyph": "MJ090175",
+            "note": null,
+            "hentaigana": "𛂪"
+        },
+        {
+            "kana": "270040010",
+            "hiragana": "ひ",
+            "kanji": "比",
+            "unicode": "U+1B0AB",
+            "glyph": "MJ090176",
+            "note": null,
+            "hentaigana": "𛂫"
+        },
+        {
+            "kana": "270050010",
+            "hiragana": "ひ",
+            "kanji": "避",
+            "unicode": "U+1B0AC",
+            "glyph": "MJ090177",
+            "note": null,
+            "hentaigana": "𛂬"
+        },
+        {
+            "kana": "270060010",
+            "hiragana": "ひ",
+            "kanji": "非",
+            "unicode": "U+1B0AD",
+            "glyph": "MJ090178",
+            "note": null,
+            "hentaigana": "𛂭"
+        },
+        {
+            "kana": "270070010",
+            "hiragana": "ひ",
+            "kanji": "飛",
+            "unicode": "U+1B0AE",
+            "glyph": "MJ090179",
+            "note": null,
+            "hentaigana": "𛂮"
+        },
+        {
+            "kana": "270070020",
+            "hiragana": "ひ",
+            "kanji": "飛",
+            "unicode": "U+1B0AF",
+            "glyph": "MJ090180",
+            "note": null,
+            "hentaigana": "𛂯"
+        },
+        {
+            "kana": "280010010",
+            "hiragana": "ふ",
+            "kanji": "不",
+            "unicode": "U+1B0B0",
+            "glyph": "MJ090181",
+            "note": null,
+            "hentaigana": "𛂰"
+        },
+        {
+            "kana": "280020010",
+            "hiragana": "ふ",
+            "kanji": "婦",
+            "unicode": "U+1B0B1",
+            "glyph": "MJ090182",
+            "note": null,
+            "hentaigana": "𛂱"
+        },
+        {
+            "kana": "280030010",
+            "hiragana": "ふ",
+            "kanji": "布",
+            "unicode": "U+1B0B2",
+            "glyph": "MJ090183",
+            "note": null,
+            "hentaigana": "𛂲"
+        },
+        {
+            "kana": "290010010",
+            "hiragana": "へ",
+            "kanji": "倍",
+            "unicode": "U+1B0B3",
+            "glyph": "MJ090184",
+            "note": null,
+            "hentaigana": "𛂳"
+        },
+        {
+            "kana": "290030020",
+            "hiragana": "へ",
+            "kanji": "弊",
+            "unicode": "U+1B0B5",
+            "glyph": "MJ090185",
+            "note": null,
+            "hentaigana": "𛂵"
+        },
+        {
+            "kana": "290050010",
+            "hiragana": "へ",
+            "kanji": "遍",
+            "unicode": "U+1B0B6",
+            "glyph": "MJ090187",
+            "note": null,
+            "hentaigana": "𛂶"
+        },
+        {
+            "kana": "290060010",
+            "hiragana": "へ",
+            "kanji": "邊",
+            "unicode": "U+1B0B7",
+            "glyph": "MJ090188",
+            "note": null,
+            "hentaigana": "𛂷"
+        },
+        {
+            "kana": "290070020",
+            "hiragana": "へ",
+            "kanji": "部",
+            "unicode": "U+1B0B9",
+            "glyph": "MJ090190",
+            "note": null,
+            "hentaigana": "𛂹"
+        },
+        {
+            "kana": "300010010",
+            "hiragana": "ほ",
+            "kanji": "保",
+            "unicode": "U+1B0BA",
+            "glyph": "MJ090191",
+            "note": null,
+            "hentaigana": "𛂺"
+        },
+        {
+            "kana": "300010030",
+            "hiragana": "ほ",
+            "kanji": "保",
+            "unicode": "U+1B0BB",
+            "glyph": "MJ090192",
+            "note": null,
+            "hentaigana": "𛂻"
+        },
+        {
+            "kana": "300020010",
+            "hiragana": "ほ",
+            "kanji": "報",
+            "unicode": "U+1B0BC",
+            "glyph": "MJ090193",
+            "note": null,
+            "hentaigana": "𛂼"
+        },
+        {
+            "kana": "300030010",
+            "hiragana": "ほ",
+            "kanji": "奉",
+            "unicode": "U+1B0BD",
+            "glyph": "MJ090194",
+            "note": null,
+            "hentaigana": "𛂽"
+        },
+        {
+            "kana": "300040010",
+            "hiragana": "ほ",
+            "kanji": "寶",
+            "unicode": "U+1B0BE",
+            "glyph": "MJ090195",
+            "note": null,
+            "hentaigana": "𛂾"
+        },
+        {
+            "kana": "300050010",
+            "hiragana": "ほ",
+            "kanji": "本",
+            "unicode": "U+1B0C0",
+            "glyph": "MJ090197",
+            "note": null,
+            "hentaigana": "𛃀"
+        },
+        {
+            "kana": "300050030",
+            "hiragana": "ほ",
+            "kanji": "本",
+            "unicode": "U+1B0BF",
+            "glyph": "MJ090196",
+            "note": null,
+            "hentaigana": "𛂿"
+        },
+        {
+            "kana": "310010010",
+            "hiragana": "ま",
+            "kanji": "万",
+            "unicode": "U+1B0C2",
+            "glyph": "MJ090199",
+            "note": null,
+            "hentaigana": "𛃂"
+        },
+        {
+            "kana": "310020010",
+            "hiragana": "ま",
+            "kanji": "末",
+            "unicode": "U+1B0C3",
+            "glyph": "MJ090200",
+            "note": null,
+            "hentaigana": "𛃃"
+        },
+        {
+            "kana": "310020020",
+            "hiragana": "ま",
+            "kanji": "末",
+            "unicode": "U+1B0C4",
+            "glyph": "MJ090201",
+            "note": null,
+            "hentaigana": "𛃄"
+        },
+        {
+            "kana": "310030010",
+            "hiragana": "ま",
+            "kanji": "滿",
+            "unicode": "U+1B0C5",
+            "glyph": "MJ090202",
+            "note": null,
+            "hentaigana": "𛃅"
+        },
+        {
+            "kana": "310030020",
+            "hiragana": "ま",
+            "kanji": "滿",
+            "unicode": "U+1B0C6",
+            "glyph": "MJ090203",
+            "note": null,
+            "hentaigana": "𛃆"
+        },
+        {
+            "kana": "310050010",
+            "hiragana": "ま",
+            "kanji": "萬",
+            "unicode": "U+1B0C7",
+            "glyph": "MJ090204",
+            "note": null,
+            "hentaigana": "𛃇"
+        },
+        {
+            "kana": "310070010",
+            "hiragana": "ま",
+            "kanji": "麻",
+            "unicode": "U+1B0C8",
+            "glyph": "MJ090206",
+            "note": null,
+            "hentaigana": "𛃈"
+        },
+        {
+            "kana": "320010010",
+            "hiragana": "み",
+            "kanji": "三",
+            "unicode": "U+1B0C9",
+            "glyph": "MJ090207",
+            "note": null,
+            "hentaigana": "𛃉"
+        },
+        {
+            "kana": "320020010",
+            "hiragana": "み",
+            "kanji": "微",
+            "unicode": "U+1B0CA",
+            "glyph": "MJ090208",
+            "note": null,
+            "hentaigana": "𛃊"
+        },
+        {
+            "kana": "320030010",
+            "hiragana": "み",
+            "kanji": "美",
+            "unicode": "U+1B0CB",
+            "glyph": "MJ090209",
+            "note": null,
+            "hentaigana": "𛃋"
+        },
+        {
+            "kana": "320030020",
+            "hiragana": "み",
+            "kanji": "美",
+            "unicode": "U+1B0CC",
+            "glyph": "MJ090210",
+            "note": null,
+            "hentaigana": "𛃌"
+        },
+        {
+            "kana": "320030030",
+            "hiragana": "み",
+            "kanji": "美",
+            "unicode": "U+1B0CD",
+            "glyph": "MJ090211",
+            "note": null,
+            "hentaigana": "𛃍"
+        },
+        {
+            "kana": "320040010",
+            "hiragana": "み",
+            "kanji": "見",
+            "unicode": "U+1B0CE",
+            "glyph": "MJ090212",
+            "note": null,
+            "hentaigana": "𛃎"
+        },
+        {
+            "kana": "320050010",
+            "hiragana": "み",
+            "kanji": "身",
+            "unicode": "U+1B0CF",
+            "glyph": "MJ090213",
+            "note": null,
+            "hentaigana": "𛃏"
+        },
+        {
+            "kana": "330020010",
+            "hiragana": "む",
+            "kanji": "无",
+            "unicode": "U+1B11E",
+            "glyph": "MJ090214",
+            "note": "「も」の仮名としても使われる",
+            "hentaigana": "𛄞"
+        },
+        {
+            "kana": "330040010",
+            "hiragana": "む",
+            "kanji": "無",
+            "unicode": "U+1B0D1",
+            "glyph": "MJ090217",
+            "note": null,
+            "hentaigana": "𛃑"
+        },
+        {
+            "kana": "330050010",
+            "hiragana": "む",
+            "kanji": "牟",
+            "unicode": "U+1B0D2",
+            "glyph": "MJ090218",
+            "note": null,
+            "hentaigana": "𛃒"
+        },
+        {
+            "kana": "330060010",
+            "hiragana": "む",
+            "kanji": "舞",
+            "unicode": "U+1B0D3",
+            "glyph": "MJ090219",
+            "note": null,
+            "hentaigana": "𛃓"
+        },
+        {
+            "kana": "340010010",
+            "hiragana": "め",
+            "kanji": "免",
+            "unicode": "U+1B0D4",
+            "glyph": "MJ090220",
+            "note": null,
+            "hentaigana": "𛃔"
+        },
+        {
+            "kana": "340030010",
+            "hiragana": "め",
+            "kanji": "面",
+            "unicode": "U+1B0D5",
+            "glyph": "MJ090221",
+            "note": null,
+            "hentaigana": "𛃕"
+        },
+        {
+            "kana": "340040010",
+            "hiragana": "め",
+            "kanji": "馬",
+            "unicode": "U+1B0D6",
+            "glyph": "MJ090222",
+            "note": "「ま」の仮名としても使われる",
+            "hentaigana": "𛃖"
+        },
+        {
+            "kana": "350010010",
+            "hiragana": "も",
+            "kanji": "母",
+            "unicode": "U+1B0D7",
+            "glyph": "MJ090225",
+            "note": null,
+            "hentaigana": "𛃗"
+        },
+        {
+            "kana": "350020010",
+            "hiragana": "も",
+            "kanji": "毛",
+            "unicode": "U+1B0D8",
+            "glyph": "MJ090226",
+            "note": null,
+            "hentaigana": "𛃘"
+        },
+        {
+            "kana": "350020020",
+            "hiragana": "も",
+            "kanji": "毛",
+            "unicode": "U+1B0D9",
+            "glyph": "MJ090227",
+            "note": null,
+            "hentaigana": "𛃙"
+        },
+        {
+            "kana": "350020060",
+            "hiragana": "も",
+            "kanji": "毛",
+            "unicode": "U+1B0DA",
+            "glyph": "MJ090228",
+            "note": null,
+            "hentaigana": "𛃚"
+        },
+        {
+            "kana": "350030010",
+            "hiragana": "も",
+            "kanji": "茂",
+            "unicode": "U+1B0DB",
+            "glyph": "MJ090229",
+            "note": null,
+            "hentaigana": "𛃛"
+        },
+        {
+            "kana": "350040010",
+            "hiragana": "も",
+            "kanji": "裳",
+            "unicode": "U+1B0DC",
+            "glyph": "MJ090230",
+            "note": null,
+            "hentaigana": "𛃜"
+        },
+        {
+            "kana": "360010020",
+            "hiragana": "や",
+            "kanji": "也",
+            "unicode": "U+1B0DD",
+            "glyph": "MJ090231",
+            "note": null,
+            "hentaigana": "𛃝"
+        },
+        {
+            "kana": "360010030",
+            "hiragana": "や",
+            "kanji": "也",
+            "unicode": "U+1B0DE",
+            "glyph": "MJ090232",
+            "note": null,
+            "hentaigana": "𛃞"
+        },
+        {
+            "kana": "360030010",
+            "hiragana": "や",
+            "kanji": "夜",
+            "unicode": "U+1B0E2",
+            "glyph": "MJ090233",
+            "note": "「よ」の仮名としても使われる",
+            "hentaigana": "𛃢"
+        },
+        {
+            "kana": "360040010",
+            "hiragana": "や",
+            "kanji": "屋",
+            "unicode": "U+1B0DF",
+            "glyph": "MJ090234",
+            "note": null,
+            "hentaigana": "𛃟"
+        },
+        {
+            "kana": "360050020",
+            "hiragana": "や",
+            "kanji": "耶",
+            "unicode": "U+1B0E1",
+            "glyph": "MJ090235",
+            "note": null,
+            "hentaigana": "𛃡"
+        },
+        {
+            "kana": "370020010",
+            "hiragana": "ゆ",
+            "kanji": "由",
+            "unicode": "U+1B0E4",
+            "glyph": "MJ090238",
+            "note": null,
+            "hentaigana": "𛃤"
+        },
+        {
+            "kana": "370020020",
+            "hiragana": "ゆ",
+            "kanji": "由",
+            "unicode": "U+1B0E5",
+            "glyph": "MJ090239",
+            "note": null,
+            "hentaigana": "𛃥"
+        },
+        {
+            "kana": "370030010",
+            "hiragana": "ゆ",
+            "kanji": "遊",
+            "unicode": "U+1B0E6",
+            "glyph": "MJ090240",
+            "note": null,
+            "hentaigana": "𛃦"
+        },
+        {
+            "kana": "380020010",
+            "hiragana": "よ",
+            "kanji": "余",
+            "unicode": "U+1B0E8",
+            "glyph": "MJ090242",
+            "note": null,
+            "hentaigana": "𛃨"
+        },
+        {
+            "kana": "380030020",
+            "hiragana": "よ",
+            "kanji": "與",
+            "unicode": "U+1B0EA",
+            "glyph": "MJ090245",
+            "note": null,
+            "hentaigana": "𛃪"
+        },
+        {
+            "kana": "380030030",
+            "hiragana": "よ",
+            "kanji": "與",
+            "unicode": "U+1B0EB",
+            "glyph": "MJ090246",
+            "note": null,
+            "hentaigana": "𛃫"
+        },
+        {
+            "kana": "380040010",
+            "hiragana": "よ",
+            "kanji": "餘",
+            "unicode": "U+1B0EC",
+            "glyph": "MJ090247",
+            "note": null,
+            "hentaigana": "𛃬"
+        },
+        {
+            "kana": "390010010",
+            "hiragana": "ら",
+            "kanji": "羅",
+            "unicode": "U+1B0ED",
+            "glyph": "MJ090249",
+            "note": null,
+            "hentaigana": "𛃭"
+        },
+        {
+            "kana": "390020010",
+            "hiragana": "ら",
+            "kanji": "良",
+            "unicode": "U+1B0EE",
+            "glyph": "MJ090250",
+            "note": null,
+            "hentaigana": "𛃮"
+        },
+        {
+            "kana": "390020030",
+            "hiragana": "ら",
+            "kanji": "良",
+            "unicode": "U+1B0F0",
+            "glyph": "MJ090252",
+            "note": null,
+            "hentaigana": "𛃰"
+        },
+        {
+            "kana": "400010010",
+            "hiragana": "り",
+            "kanji": "利",
+            "unicode": "U+1B0F1",
+            "glyph": "MJ090253",
+            "note": null,
+            "hentaigana": "𛃱"
+        },
+        {
+            "kana": "400010020",
+            "hiragana": "り",
+            "kanji": "利",
+            "unicode": "U+1B0F2",
+            "glyph": "MJ090254",
+            "note": null,
+            "hentaigana": "𛃲"
+        },
+        {
+            "kana": "400020010",
+            "hiragana": "り",
+            "kanji": "李",
+            "unicode": "U+1B0F3",
+            "glyph": "MJ090255",
+            "note": null,
+            "hentaigana": "𛃳"
+        },
+        {
+            "kana": "400030010",
+            "hiragana": "り",
+            "kanji": "梨",
+            "unicode": "U+1B0F4",
+            "glyph": "MJ090256",
+            "note": null,
+            "hentaigana": "𛃴"
+        },
+        {
+            "kana": "400040010",
+            "hiragana": "り",
+            "kanji": "理",
+            "unicode": "U+1B0F5",
+            "glyph": "MJ090257",
+            "note": null,
+            "hentaigana": "𛃵"
+        },
+        {
+            "kana": "400050010",
+            "hiragana": "り",
+            "kanji": "里",
+            "unicode": "U+1B0F6",
+            "glyph": "MJ090258",
+            "note": null,
+            "hentaigana": "𛃶"
+        },
+        {
+            "kana": "400060010",
+            "hiragana": "り",
+            "kanji": "離",
+            "unicode": "U+1B0F7",
+            "glyph": "MJ090259",
+            "note": null,
+            "hentaigana": "𛃷"
+        },
+        {
+            "kana": "410010010",
+            "hiragana": "る",
+            "kanji": "流",
+            "unicode": "U+1B0F8",
+            "glyph": "MJ090260",
+            "note": null,
+            "hentaigana": "𛃸"
+        },
+        {
+            "kana": "410020010",
+            "hiragana": "る",
+            "kanji": "留",
+            "unicode": "U+1B0F9",
+            "glyph": "MJ090261",
+            "note": null,
+            "hentaigana": "𛃹"
+        },
+        {
+            "kana": "410020020",
+            "hiragana": "る",
+            "kanji": "留",
+            "unicode": "U+1B0FA",
+            "glyph": "MJ090262",
+            "note": null,
+            "hentaigana": "𛃺"
+        },
+        {
+            "kana": "410020030",
+            "hiragana": "る",
+            "kanji": "留",
+            "unicode": "U+1B0FB",
+            "glyph": "MJ090263",
+            "note": null,
+            "hentaigana": "𛃻"
+        },
+        {
+            "kana": "410030010",
+            "hiragana": "る",
+            "kanji": "累",
+            "unicode": "U+1B0FC",
+            "glyph": "MJ090264",
+            "note": null,
+            "hentaigana": "𛃼"
+        },
+        {
+            "kana": "410040010",
+            "hiragana": "る",
+            "kanji": "類",
+            "unicode": "U+1B0FD",
+            "glyph": "MJ090265",
+            "note": null,
+            "hentaigana": "𛃽"
+        },
+        {
+            "kana": "420010010",
+            "hiragana": "れ",
+            "kanji": "禮",
+            "unicode": "U+1B0FE",
+            "glyph": "MJ090266",
+            "note": null,
+            "hentaigana": "𛃾"
+        },
+        {
+            "kana": "420010030",
+            "hiragana": "れ",
+            "kanji": "禮",
+            "unicode": "U+1B0FF",
+            "glyph": "MJ090267",
+            "note": null,
+            "hentaigana": "𛃿"
+        },
+        {
+            "kana": "420020010",
+            "hiragana": "れ",
+            "kanji": "連",
+            "unicode": "U+1B100",
+            "glyph": "MJ090268",
+            "note": null,
+            "hentaigana": "𛄀"
+        },
+        {
+            "kana": "420030010",
+            "hiragana": "れ",
+            "kanji": "麗",
+            "unicode": "U+1B101",
+            "glyph": "MJ090269",
+            "note": null,
+            "hentaigana": "𛄁"
+        },
+        {
+            "kana": "430020010",
+            "hiragana": "ろ",
+            "kanji": "呂",
+            "unicode": "U+1B102",
+            "glyph": "MJ090270",
+            "note": null,
+            "hentaigana": "𛄂"
+        },
+        {
+            "kana": "430020020",
+            "hiragana": "ろ",
+            "kanji": "呂",
+            "unicode": "U+1B103",
+            "glyph": "MJ090271",
+            "note": null,
+            "hentaigana": "𛄃"
+        },
+        {
+            "kana": "430030010",
+            "hiragana": "ろ",
+            "kanji": "婁",
+            "unicode": "U+1B104",
+            "glyph": "MJ090272",
+            "note": null,
+            "hentaigana": "𛄄"
+        },
+        {
+            "kana": "430040010",
+            "hiragana": "ろ",
+            "kanji": "樓",
+            "unicode": "U+1B105",
+            "glyph": "MJ090273",
+            "note": null,
+            "hentaigana": "𛄅"
+        },
+        {
+            "kana": "430050010",
+            "hiragana": "ろ",
+            "kanji": "路",
+            "unicode": "U+1B106",
+            "glyph": "MJ090274",
+            "note": null,
+            "hentaigana": "𛄆"
+        },
+        {
+            "kana": "430060010",
+            "hiragana": "ろ",
+            "kanji": "露",
+            "unicode": "U+1B107",
+            "glyph": "MJ090275",
+            "note": null,
+            "hentaigana": "𛄇"
+        },
+        {
+            "kana": "440010010",
+            "hiragana": "わ",
+            "kanji": "倭",
+            "unicode": "U+1B108",
+            "glyph": "MJ090276",
+            "note": null,
+            "hentaigana": "𛄈"
+        },
+        {
+            "kana": "440020010",
+            "hiragana": "わ",
+            "kanji": "和",
+            "unicode": "U+1B109",
+            "glyph": "MJ090277",
+            "note": null,
+            "hentaigana": "𛄉"
+        },
+        {
+            "kana": "440020020",
+            "hiragana": "わ",
+            "kanji": "和",
+            "unicode": "U+1B10A",
+            "glyph": "MJ090278",
+            "note": null,
+            "hentaigana": "𛄊"
+        },
+        {
+            "kana": "440030010",
+            "hiragana": "わ",
+            "kanji": "王",
+            "unicode": "U+1B10B",
+            "glyph": "MJ090279",
+            "note": null,
+            "hentaigana": "𛄋"
+        },
+        {
+            "kana": "450010010",
+            "hiragana": "ゐ",
+            "kanji": "井",
+            "unicode": "U+1B10D",
+            "glyph": "MJ090281",
+            "note": null,
+            "hentaigana": "𛄍"
+        },
+        {
+            "kana": "450010020",
+            "hiragana": "ゐ",
+            "kanji": "井",
+            "unicode": "U+1B10E",
+            "glyph": "MJ090282",
+            "note": null,
+            "hentaigana": "𛄎"
+        },
+        {
+            "kana": "450050010",
+            "hiragana": "ゐ",
+            "kanji": "遺",
+            "unicode": "U+1B111",
+            "glyph": "MJ090285",
+            "note": null,
+            "hentaigana": "𛄑"
+        },
+        {
+            "kana": "460010010",
+            "hiragana": "ゑ",
+            "kanji": "惠",
+            "unicode": "U+1B112",
+            "glyph": "MJ090286",
+            "note": null,
+            "hentaigana": "𛄒"
+        },
+        {
+            "kana": "460020010",
+            "hiragana": "ゑ",
+            "kanji": "衞",
+            "unicode": "U+1B113",
+            "glyph": "MJ090287",
+            "note": null,
+            "hentaigana": "𛄓"
+        },
+        {
+            "kana": "460020020",
+            "hiragana": "ゑ",
+            "kanji": "衞",
+            "unicode": "U+1B114",
+            "glyph": "MJ090288",
+            "note": null,
+            "hentaigana": "𛄔"
+        },
+        {
+            "kana": "470010010",
+            "hiragana": "を",
+            "kanji": "乎",
+            "unicode": "U+1B116",
+            "glyph": "MJ090290",
+            "note": null,
+            "hentaigana": "𛄖"
+        },
+        {
+            "kana": "470010020",
+            "hiragana": "を",
+            "kanji": "乎",
+            "unicode": "U+1B117",
+            "glyph": "MJ090291",
+            "note": null,
+            "hentaigana": "𛄗"
+        },
+        {
+            "kana": "470020010",
+            "hiragana": "を",
+            "kanji": "尾",
+            "unicode": "U+1B118",
+            "glyph": "MJ090292",
+            "note": null,
+            "hentaigana": "𛄘"
+        },
+        {
+            "kana": "470030010",
+            "hiragana": "を",
+            "kanji": "緒",
+            "unicode": "U+1B119",
+            "glyph": "MJ090294",
+            "note": null,
+            "hentaigana": "𛄙"
+        },
+        {
+            "kana": "470040010",
+            "hiragana": "を",
+            "kanji": "越",
+            "unicode": "U+1B11A",
+            "glyph": "MJ090295",
+            "note": null,
+            "hentaigana": "𛄚"
+        },
+        {
+            "kana": "470050010",
+            "hiragana": "を",
+            "kanji": "遠",
+            "unicode": "U+1B11B",
+            "glyph": "MJ090296",
+            "note": null,
+            "hentaigana": "𛄛"
+        },
+        {
+            "kana": "470050020",
+            "hiragana": "を",
+            "kanji": "遠",
+            "unicode": "U+1B11C",
+            "glyph": "MJ090297",
+            "note": null,
+            "hentaigana": "𛄜"
+        }
+    ],
+    "hentaigana_no_unicode": [
+        {
+            "kana": "10010020",
+            "hiragana": "あ",
+            "kanji": "安",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "40010010",
+            "hiragana": "え",
+            "kanji": "得",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "60040010",
+            "hiragana": "か",
+            "kanji": "哥",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "60080010",
+            "hiragana": "か",
+            "kanji": "歌",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "70030010",
+            "hiragana": "き",
+            "kanji": "季",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "100020010",
+            "hiragana": "こ",
+            "kanji": "己",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "110080010",
+            "hiragana": "さ",
+            "kanji": "狹",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "130030010",
+            "hiragana": "す",
+            "kanji": "寸",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "130050020",
+            "hiragana": "す",
+            "kanji": "春",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "140030010",
+            "hiragana": "せ",
+            "kanji": "瀬",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "150050010",
+            "hiragana": "そ",
+            "kanji": "處",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "160020030",
+            "hiragana": "た",
+            "kanji": "多",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "160040010",
+            "hiragana": "た",
+            "kanji": "田",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "200050020",
+            "hiragana": "と",
+            "kanji": "止",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "200050030",
+            "hiragana": "と",
+            "kanji": "止",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "250050010",
+            "hiragana": "の",
+            "kanji": "迺",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "260090010",
+            "hiragana": "は",
+            "kanji": "芳",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "270010010",
+            "hiragana": "ひ",
+            "kanji": "妣",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "300010020",
+            "hiragana": "ほ",
+            "kanji": "保",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "300010040",
+            "hiragana": "ほ",
+            "kanji": "保",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "300050020",
+            "hiragana": "ほ",
+            "kanji": "本",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "350020040",
+            "hiragana": "も",
+            "kanji": "毛",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "350020050",
+            "hiragana": "も",
+            "kanji": "毛",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "350020070",
+            "hiragana": "も",
+            "kanji": "毛",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "370030020",
+            "hiragana": "ゆ",
+            "kanji": "遊",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "390020020",
+            "hiragana": "ら",
+            "kanji": "良",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "420010020",
+            "hiragana": "れ",
+            "kanji": "禮",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        },
+        {
+            "kana": "460010020",
+            "hiragana": "ゑ",
+            "kanji": "惠",
+            "unicode": null,
+            "glyph": null,
+            "note": null,
+            "hentaigana": null
+        }
+    ],
+    "multiple_hiragana_map": [
+        {
+            "kana": "10020010",
+            "hiragana": "あ",
+            "kanji": "惡",
+            "unicode": "U+1B005",
+            "glyph": "MJ090002",
+            "note": "「を」の仮名としても使われる",
+            "hentaigana": "𛀅"
+        },
+        {
+            "kana": "60060010",
+            "hiragana": "か",
+            "kanji": "家",
+            "unicode": "U+1B022",
+            "glyph": "MJ090028",
+            "note": "「け」の仮名としても使われる",
+            "hentaigana": "𛀢"
+        },
+        {
+            "kana": "100040010",
+            "hiragana": "こ",
+            "kanji": "期",
+            "unicode": "U+1B03B",
+            "glyph": "MJ090061",
+            "note": "「き」の仮名としても使われる",
+            "hentaigana": "𛀻"
+        },
+        {
+            "kana": "180020010",
+            "hiragana": "つ",
+            "kanji": "徒",
+            "unicode": "U+1B06D",
+            "glyph": "MJ090110",
+            "note": "「と」の仮名としても使われる",
+            "hentaigana": "𛁭"
+        },
+        {
+            "kana": "200080010",
+            "hiragana": "と",
+            "kanji": "等",
+            "unicode": "U+1B07D",
+            "glyph": "MJ090130",
+            "note": "「ら」の仮名としても使われる",
+            "hentaigana": "𛁽"
+        },
+        {
+            "kana": "220070010",
+            "hiragana": "に",
+            "kanji": "而",
+            "unicode": "U+1B08E",
+            "glyph": "MJ090146",
+            "note": "「て」の仮名としても使われる",
+            "hentaigana": "𛂎"
+        },
+        {
+            "kana": "240010010",
+            "hiragana": "ね",
+            "kanji": "子",
+            "unicode": "U+1B098",
+            "glyph": "MJ090151",
+            "note": "「こ」の仮名としても使われる",
+            "hentaigana": "𛂘"
+        },
+        {
+            "kana": "330020010",
+            "hiragana": "む",
+            "kanji": "无",
+            "unicode": "U+1B11E",
+            "glyph": "MJ090214",
+            "note": "「も」の仮名としても使われる",
+            "hentaigana": "𛄞"
+        },
+        {
+            "kana": "340040010",
+            "hiragana": "め",
+            "kanji": "馬",
+            "unicode": "U+1B0D6",
+            "glyph": "MJ090222",
+            "note": "「ま」の仮名としても使われる",
+            "hentaigana": "𛃖"
+        },
+        {
+            "kana": "360030010",
+            "hiragana": "や",
+            "kanji": "夜",
+            "unicode": "U+1B0E2",
+            "glyph": "MJ090233",
+            "note": "「よ」の仮名としても使われる",
+            "hentaigana": "𛃢"
+        }
+    ]
+}
